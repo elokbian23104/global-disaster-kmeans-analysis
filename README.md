@@ -1,6 +1,3 @@
-# global-disaster-kmeans-analysis
-Exploratory data analysis and K-Means clustering of global disaster events using Python.
-
 # Global Disaster Analysis using K-Means Clustering
 This project presents an exploratory data analysis and clustering of global disaster events
 using historical disaster data. The study aims to identify patterns and group disaster events
